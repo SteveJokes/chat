@@ -1,0 +1,17 @@
+ndows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+*.bin
+dist
+build
+
+# My configurations:
+db.ini
+deploy_key_rsa
